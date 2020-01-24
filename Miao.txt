@@ -1,0 +1,6 @@
+Miao miao miao miao
+ls -l MIao.txt
+:q
+q
+Get me out
+Aaaaaah
